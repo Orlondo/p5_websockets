@@ -5,6 +5,7 @@
   "main": "server.js",
   "author": "Orlondo Rue",
   "license": "MIT",
+  "repository": "https://github.com/Orlondo/p5_websockets",
   "private": false,
   "dependencies": {
     "express": "^4.16.3",
